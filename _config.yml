@@ -1,0 +1,36 @@
+# site settings
+title: Michael
+subtitle: Rush
+email: rmichaelrush@gmail.com
+description: A creative artist with a flare for<br /> design and character development.
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Blue Springs
+state: MO
+zip_code: 64015
+country: United States of America
+phone: (573) 719-6716
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+#github_url:
+#gitlab_url:
+#googleplus_url: 
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
